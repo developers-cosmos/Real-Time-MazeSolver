@@ -3,7 +3,7 @@
 <br><br>
 <img src = "Images/stream.gif">
 <br>
-# Steps
+<h2>Steps</h2>
 - Initially the maze in a frame is to be detected.
 - Once the frame is detected, Start & Stops points for the image is calculated by our algorithm.
 - Each maze (image) is converted to a numpy array consists of only binary values 0's and 1's. Here zeroes are for blocked ways and 1s are for free path.
