@@ -1,5 +1,5 @@
 # Real Time Maze Solver
-> Our Project Aims for solving a maze whenever a user gives an maze image as input.
+Our Project Aims for solving a maze whenever a user gives an maze image as input.
 <br><br>
 <img src = "Images/stream.gif">
 <br>
