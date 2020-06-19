@@ -2,6 +2,7 @@
 > Our Project Aims for solving a maze whenever a user gives an maze image as input.
 <br><br>
 <img src = "Images/stream.gif">
+<br>
 ## Steps
 - Initially the maze in a frame is to be detected.
 - Once the frame is detected, Start & Stops points for the image is calculated by our algorithm.
